@@ -54,9 +54,3 @@ License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### Summary
-- The **`.gitignore`** file ensures that sensitive data (like the `.env` file) and unnecessary files (like `node_modules`) are not tracked by Git.
-- The **`README.md`** file provides a clear overview of the project, installation instructions, features, and usage information, making it easier for others (or future you) to understand and work with the project.
-
-Feel free to modify any of the contents to better suit your project's specifics! Let me know if you need further assistance!
-
